@@ -29,7 +29,7 @@ const Contact = () => {
 		setLoading(true);
 		emailjs
 			.send(
-				"ervice_yrihm74",
+				"service_yrihm74",
 				"template_9rl62tb",
 				{
 					from_name: form.name,
